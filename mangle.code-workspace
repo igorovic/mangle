@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "node_modules\\rollup"
+		},
+		{
+			"path": "node_modules\\svelte"
+		}
+	],
+	"settings": {}
+}

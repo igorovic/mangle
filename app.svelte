@@ -1,3 +1,6 @@
+<script context="module">
+    export const ModVar="Module variable"
+</script>
 <script>
     export let name;
 </script>

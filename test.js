@@ -7,4 +7,4 @@ console.log(App)
 
 const res = parse(App);
 
-console.log(res);
+debug(res);
