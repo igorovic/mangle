@@ -1,0 +1,21 @@
+{
+  "name": "v8-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "require-from-string": "^2.0.2",
+    "v8-compile-cache": "^2.1.1"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1",
+    "esm": "^3.2.25",
+    "svelte": "^3.24.1"
+  }
+}
