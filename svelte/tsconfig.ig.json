@@ -1,0 +1,30 @@
+{
+    "include": [],
+    "files": [
+        "src/compiler/compile/Component.ts",
+        "src/compiler/compile/render_ssr/index.ts"
+    ],
+      "exclude": [
+        "node_modules", "dist"
+      ],
+	"compilerOptions": {
+		"rootDir": "src",
+        "outDir": "dist",
+		"lib": ["es2017"],
+		"target": "es2017",
+		"module": "commonjs",
+    	"esModuleInterop": true,
+		"declaration": false,
+
+		"noEmitOnError": true,
+		"noErrorTruncation": true,
+
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"allowSyntheticDefaultImports": true,
+
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true
+	}
+}
