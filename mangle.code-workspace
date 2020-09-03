@@ -4,13 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "node_modules\\rollup"
+			"path": "./node_modules/rollup"
 		},
 		{
-			"path": "node_modules\\svelte"
+			"path": "./node_modules/svelte"
 		},
 		{
-			"path": "node_modules\\escodegen"
+			"path": "./node_modules/escodegen"
 		}
 	],
 	"settings": {}
